@@ -19,24 +19,22 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 
 ### Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-TypeScript: TypeScript`TypeScript`
-React: React`React`
-HTML5: HTML5`HTML5`
-CSS3: CSS3`CSS3`
-Node.js: Node.js` Node.js`
-Express: Express`Express`
-Redux: Redux`Redux`
-Sequelize: Sequelize`Sequelize`
-PostgreSQL: PostgreSQL`PostgreSQL`
-Material UI: Material UI`Material UI`
-AJAX: AJAX`AJAX`
-Bootstrap: Bootstrap`Bootstrap`
-Git: Git`Git`
-GitHub: GitHub`GitHub`
-Slack: Slack`Slack`
-Trello: `Trello`
-Visual Studio Code: `Visual Studio Code`
-
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Redux](https://img.icons8.com/color/48/000000/redux.png)
+![Sequelize](https://img.icons8.com/color/48/000000/database-structure.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![MaterialUI](https://img.icons8.com/color/48/000000/material-ui.png)
+![AJAX](https://img.icons8.com/color/48/000000/ajax.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
+![Trello](https://img.icons8.com/color/48/000000/trello.png)
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
