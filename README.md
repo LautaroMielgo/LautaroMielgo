@@ -8,7 +8,7 @@ Como desarrollador full stack, tengo experiencia en una amplia gama de tecnolog�
 Si estás buscando a alguien disciplinado, 100% comprometido con su trabajo y dispuesto a afrontar cualquier desafío, no dudes en contactarme en mi correo electrónico lautimielgo@gmail.com.
 Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente con la misma actitud que la mia.
 
- Durante mi etapa de estudiante
+### Durante mi etapa de estudiante
 
  He trabajado en un proyecto individual en henry llamado [ProyectoIndividual_VideoGames](https://github.com/LautaroMielgo/ProyectoIndividual_VideoGames)
 
