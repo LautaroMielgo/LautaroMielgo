@@ -20,6 +20,7 @@ JavaScript, TypeScript, React, HTML5, CSS3, Node.js, Express, Redux, SQL, Sequel
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
+
 Correo electrónico: lautimielgo@gmail.com
 
 
