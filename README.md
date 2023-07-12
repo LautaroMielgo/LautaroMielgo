@@ -39,6 +39,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 Contactarme en mis redes:
 
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
+
 Correo electrónico: lautimielgo@gmail.com
 
 
