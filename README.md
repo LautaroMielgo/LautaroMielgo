@@ -18,7 +18,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 
 
 ### Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
-. JavaScript
+. ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 . TypeScript
 . React
 . HTML5
@@ -36,7 +36,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 . Slack 
 . Trello
 . Visual Studio Code.
-(https://img.icons8.com/color/48/000000/javascript.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
