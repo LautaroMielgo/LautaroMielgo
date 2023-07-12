@@ -9,7 +9,9 @@ Si estás buscando a alguien disciplinado, 100% comprometido con su trabajo y di
 Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente con la misma actitud que la mia.
 
  Durante mi etapa de estudiante
+
  He trabajado en un proyecto individual en henry llamado ProyectoIndividual_VideoGames
+
  He trabajado en un proyecto grupal tambien en henry llamado DevPoolSoft.
  
  Tambien he desarrollado un e-commerce por mi cuenta llamado  E-commerce-LautaroMielgo
