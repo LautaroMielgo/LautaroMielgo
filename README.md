@@ -36,7 +36,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 ![VisualStudioCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 
-Contactarme en mis redes:
+#### Contactarme en mis redes:
 
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
 
