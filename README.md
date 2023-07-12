@@ -18,25 +18,25 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 
 
 ### Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
-. ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-. TypeScript
-. React
-. HTML5
-. CSS3
-. Node.js
-. Express
-. Redux
-. Sequelize
-. PostgreSQL
-. Material UI
-. AJAX
-. Bootstrap
-. Git
-. GitHub
-. Slack 
-. Trello
-. Visual Studio Code.
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+TypeScript: TypeScript`TypeScript`
+React: React`React`
+HTML5: HTML5`HTML5`
+CSS3: CSS3`CSS3`
+Node.js: Node.js` Node.js`
+Express: Express`Express`
+Redux: Redux`Redux`
+Sequelize: Sequelize`Sequelize`
+PostgreSQL: PostgreSQL`PostgreSQL`
+Material UI: Material UI`Material UI`
+AJAX: AJAX`AJAX`
+Bootstrap: Bootstrap`Bootstrap`
+Git: Git`Git`
+GitHub: GitHub`GitHub`
+Slack: Slack`Slack`
+Trello: `Trello`
+Visual Studio Code: `Visual Studio Code`
+
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
