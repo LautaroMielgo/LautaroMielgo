@@ -1,4 +1,4 @@
-#Hola 👋, mi nombre es Lautaro Mielgo gracias por visitar mi perfil de GitHub! 
+Hola 👋, mi nombre es Lautaro Mielgo gracias por visitar mi perfil de GitHub! 
 
 Soy desarrollador full stack tengo 28 años soy un apasionado de la tecnología y el mundo de la informática.
 Estoy siempre al tanto de las nuevas tecnologias y practicas para llevar mi trabajo siempre un paso mas alla, me apasiona la idea de aprender y de trabajar en grupos en donde pueda aportar mis conocimientos y aprender tambien de los conocimientos de los demas para seguir creciendo dia a dia.
