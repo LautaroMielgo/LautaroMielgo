@@ -36,6 +36,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 . Slack 
 . Trello
 . Visual Studio Code.
+(https://img.icons8.com/color/48/000000/javascript.png)
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
