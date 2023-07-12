@@ -1,16 +1,25 @@
-### Hi there 👋
+Hola 👋, mi nombre es Lautaro Mielgo gracias por visitar mi perfil de GitHub! 
 
-<!--
-**LautaroMielgo/LautaroMielgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador full stack tengo 28 años soy un apasionado de la tecnología y el mundo de la informática.
+Estoy siempre al tanto de las nuevas tecnologias y practicas para llevar mi trabajo siempre un paso mas alla, me apasiona la idea de aprender y de trabajar en grupos en donde pueda aportar mis conocimientos y aprender tambien de los conocimientos de los demas para seguir creciendo dia a dia.
 
-Here are some ideas to get you started:
+Como desarrollador full stack, tengo experiencia en una amplia gama de tecnologías y frameworks. Estoy preparado para adaptarme a cualquier proyecto y trabajar de manera efectiva en equipo. Además cuento con la habilidad para comunicarme de manera clara y acertiva para trabajar en estrecha colaboración garantizando asi el éxito del proyecto desde el principio hasta el final.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Si estás buscando a alguien disciplinado, 100% comprometido con su trabajo y dispuesto a afrontar cualquier desafío, no dudes en contactarme en mi correo electrónico lautimielgo@gmail.com.
+Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente con la misma actitud que la mia.
+
+ Durante mi etapa de estudiante
+ He trabajado en un proyecto individual en henry llamado ProyectoIndividual_VideoGames
+ He trabajado en un proyecto grupal tambien en henry llamado DevPoolSoft.
+ 
+ Tambien he desarrollado un e-commerce por mi cuenta llamado  E-commerce-LautaroMielgo
+
+
+Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
+JavaScript, TypeScript, React, HTML5, CSS3, Node.js, Express, Redux, SQL, Sequelize, PostgreSQL,Material UI, AJAX, Bootstrap, PostgresSQL, Git, GitHub, Slack, Trello, Visual Studio Code.
+
+Contactarme en mis redes:
+Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
+Correo electrónico: lautimielgo@gmail.com
+
+
