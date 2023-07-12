@@ -33,7 +33,7 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 ![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
 ![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
 ![Trello](https://img.icons8.com/color/48/000000/trello.png)
-
+![VisualStudioCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
 
