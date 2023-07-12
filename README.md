@@ -17,8 +17,25 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
  Tambien he desarrollado un e-commerce por mi cuenta llamado [E-commerce-LautaroMielgo](https://github.com/LautaroMielgo/E-commerce-LautaroMielgo-)
 
 
-Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
-JavaScript, TypeScript, React, HTML5, CSS3, Node.js, Express, Redux, SQL, Sequelize, PostgreSQL,Material UI, AJAX, Bootstrap, PostgresSQL, Git, GitHub, Slack, Trello, Visual Studio Code.
+### Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
+. JavaScript
+. TypeScript
+. React
+. HTML5
+. CSS3
+. Node.js
+. Express
+. Redux
+. Sequelize
+. PostgreSQL
+. Material UI
+. AJAX
+. Bootstrap
+. Git
+. GitHub
+. Slack 
+. Trello
+. Visual Studio Code.
 
 Contactarme en mis redes:
 Linkedin: https://www.linkedin.com/in/lautaro-mielgo-ab406b267/
