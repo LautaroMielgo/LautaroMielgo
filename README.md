@@ -10,11 +10,11 @@ Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente 
 
  Durante mi etapa de estudiante
 
- He trabajado en un proyecto individual en henry llamado ProyectoIndividual_VideoGames
+ He trabajado en un proyecto individual en henry llamado [ProyectoIndividual_VideoGames](https://github.com/LautaroMielgo/ProyectoIndividual_VideoGames)
 
- He trabajado en un proyecto grupal tambien en henry llamado DevPoolSoft.
+ He trabajado en un proyecto grupal tambien en henry llamado [DevPoolSoft.](https://github.com/JuanQuintero1511/DevPoolSoft)
  
- Tambien he desarrollado un e-commerce por mi cuenta llamado  E-commerce-LautaroMielgo
+ Tambien he desarrollado un e-commerce por mi cuenta llamado [E-commerce-LautaroMielgo](https://github.com/LautaroMielgo/E-commerce-LautaroMielgo-)
 
 
 Aqui te dejo una lista de los lenguajes y herramientas que domino hoy en dia:
