@@ -5,7 +5,7 @@ Estoy siempre al tanto de las nuevas tecnologias y practicas para llevar mi trab
 
 Como desarrollador, tengo experiencia en una amplia gama de tecnologías y frameworks. Estoy preparado para adaptarme a cualquier proyecto y trabajar de manera efectiva en equipo. Además cuento con la habilidad para comunicarme de manera clara y acertiva para trabajar en estrecha colaboración garantizando asi el éxito del proyecto desde el principio hasta el final.
 
-Si estás buscando a alguien enfocado a los resultados, 100% comprometido con su trabajo y dispuesto a afrontar cualquier desafío, no dudes en contactarme en mi correo electrónico lautimielgo@gmail.com.
+Si estás buscando a alguien enfocado a los resultados, comprometido con su trabajo y dispuesto a afrontar cualquier desafío, no dudes en contactarme en mi correo electrónico lautimielgo@gmail.com.
 Me emociona la idea de poder colaborar contigo y trabajar codo a codo con gente con la misma actitud.
 
 ### Durante mi etapa de estudiante
